@@ -1,4 +1,4 @@
-# Project Overview
+Project Overview
 
 This project analyzes home loan applicant data to identify patterns that lead to loan defaults.
 
@@ -6,7 +6,7 @@ Using data analysis, visualization, and machine learning, the project helps pred
 
 The analysis helps financial institutions make better lending decisions and reduce financial risk.
 
-# Project Objectives
+Project Objectives
 
 Perform Exploratory Data Analysis (EDA) on loan data
 
@@ -16,7 +16,7 @@ Build a machine learning model to predict loan default risk
 
 Generate insights to support data-driven decision making
 ------------
-# Technologies Used
+Technologies Used
 
 Python
 
@@ -32,7 +32,7 @@ Scikit-learn
 
 Jupyter Notebook
 ---------
-# Project Workflow
+Project Workflow
 
 Data Loading – Import dataset and inspect structure
 
@@ -44,8 +44,7 @@ Feature Engineering – Prepare data for modeling
 
 Model Building – Train machine learning models to predict loan default
 -------
-
-### Key Factors for Loan Eligibility:
+Key Factors for Loan Eligibility:
 
 Based on our analysis, customers are more likely to be **eligible for loans** (lower default risk) if they have:
 
@@ -57,7 +56,7 @@ Based on our analysis, customers are more likely to be **eligible for loans** (l
 6. **Lower Credit Amount**: Requesting appropriate credit amount relative to income
 7. **Previous Good History**: Clean credit bureau history is a strong indicator
 
-### Business Recommendations:
+Business Recommendations:
 
 1. **Focus on Income Verification**: Ensure thorough income verification process
 2. **Age-Based Policies**: Consider different policies for different age groups
@@ -77,7 +76,7 @@ This project successfully:
 5. **Recommended** Random Forest as the best model for production use
 6. **Provided** actionable insights for identifying eligible loan customers
 
-### Future Improvements:
+Future Improvements:
 
 1. Utilize data from all related tables (bureau, previous applications, etc.)
 2. Implement advanced feature engineering
