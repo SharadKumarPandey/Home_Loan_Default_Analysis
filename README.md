@@ -1,3 +1,4 @@
+
 Project Overview
 
 This project analyzes home loan applicant data to identify patterns that lead to loan defaults.
